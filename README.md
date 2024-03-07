@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffbc75&height=200&section=header&text=Kayoung-Kwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
-### Hi there 👋
-***
-안녕하세요
-
+## Hi there 👋
+##### I'm Kayoung Kwon✨<br>
+##### 📫E-mail : kwonka6348@gmail.com<br>📝Notion : -----<br>
 <!--
-**libakongka/libakongka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📫E-mail : kwonka6348@gmail.com </br>
-📝Notion : -----
-
+<br><br>
 ## 🚀Tech-Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -48,7 +40,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ##### 🍼experienced
-
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -59,7 +50,8 @@ Here are some ideas to get you started:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### ⚡GitHub Stats
+<br><br>
+## ⚡GitHub Stats
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=libakongka&theme=ambient_gradient&show_icons=true" width="42%" />
 </a>
