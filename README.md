@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffbc75&height=200&section=header&text=Kayoung-Kwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
-## Hi there 👋
+### Hi there 👋
+***
 안녕하세요
 
 <!--
@@ -21,7 +22,6 @@ Here are some ideas to get you started:
 📝Notion : -----
 
 ## 🚀Tech-Stack
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -58,3 +58,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### ⚡GitHub Stats
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=libakongka&theme=ambient_gradient&show_icons=true" width="42%" />
+</a>
