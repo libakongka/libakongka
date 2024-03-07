@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-
-# Kwon KaYoung 👶
-
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffbc75&height=200&section=header&text=Kayoung-Kwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
+## Hi there 👋
+안녕하세요
 
 <!--
 **libakongka/libakongka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
