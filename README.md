@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 📫E-mail : kwonka6348@gmail.com </br>
 📝Notion : -----
 
+<!-- 뱃지 양식 -->
+<!--java--><img src="">  
+
 ### 🚀Stack
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
