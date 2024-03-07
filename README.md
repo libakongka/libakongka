@@ -37,16 +37,21 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
+            <b>DBMS</b>
+        </td>
+        <td>
             <!--MySQL--><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
         </td>
     </tr>
     <tr>
         <td>
+            <b>Front</b>
+        </td>
+        <td>
             <!--HTML5--><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  
             <!--CSS3--><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
         </td>
     </tr>
-    
  </table>
 
 JavaScript
