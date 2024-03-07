@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📝 : https://kim6394.tistory.com/
 <!--Java-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-//MysQL
+<!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 //Oracle
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
