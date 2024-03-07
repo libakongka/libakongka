@@ -21,12 +21,7 @@ Here are some ideas to get you started:
 📝Notion : -----
 
 ### 🚀Stack
-<style>
-table{
- border-collapse:collapse;
-}
-</style>
-<table>
+<table frame=void>
     <tr>
         <td>
             <b>Language</b>
