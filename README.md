@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 📫E-mail : kwonka6348@gmail.com </br>
 📝Notion : -----
 
-<!-- 뱃지 양식 -->
-<!--java--><img src="">  
-
-
 ## 🚀Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
