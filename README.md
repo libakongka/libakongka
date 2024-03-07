@@ -40,16 +40,10 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-            <b>DBMS</b>
-        </td>
-        <td>
             <!--MySQL--><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
         </td>
     </tr>
     <tr>
-        <td>
-            <b>Tools</b>
-        </td>
         <td>
             <!--HTML5-->
             <!--CSS3-->
