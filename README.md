@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            ### Language
+            <b>Language</b>
         </td>
         <td>
             <!--java--><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
