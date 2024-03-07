@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫E-mail : kwonka6348@gmail.com
+📫E-mail : kwonka6348@gmail.com </br>
 📝Notion : -----
 
 ⚡Stack
