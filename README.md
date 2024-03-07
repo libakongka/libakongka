@@ -33,6 +33,9 @@ Here are some ideas to get you started:
             <!--Spring Boot--><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
             <!--Spring Security--><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">  
             <!--Hibernate--><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">  
+            <br>
+            <!--Javascript--><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
         </td>
     </tr>
     <tr>
@@ -52,10 +55,18 @@ Here are some ideas to get you started:
             <!--CSS3--><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
         </td>
     </tr>
+        <tr>
+        <td>
+            <b>Tools</b>
+        </td>
+        <td>
+            <!--HTML5-->
+            <!--CSS3-->
+        </td>
+    </tr>
  </table>
 
 JavaScript
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 React
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
