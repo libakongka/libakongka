@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📫E-mail : kwonka6348@gmail.com
+📝Notion : -----
 
-📫 : gyuseok6394@gmail.com
-📝 : https://kim6394.tistory.com/
+⚡Stack
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--Java-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" onclick="#">
 <!--MySQL-->
