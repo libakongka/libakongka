@@ -34,7 +34,10 @@ Here are some ideas to get you started:
             <!--Spring Security--><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">  
             <!--Hibernate--><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">  
             <br>
+            <!--Thymeleaf--><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">  
             <!--Javascript--><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  
+            <!--HTML5--><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  
+            <!--CSS3--><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
         </td>
     </tr>
     <tr>
@@ -47,15 +50,6 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-            <b>Front</b>
-        </td>
-        <td>
-            <!--HTML5--><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  
-            <!--CSS3--><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
-        </td>
-    </tr>
-        <tr>
-        <td>
             <b>Tools</b>
         </td>
         <td>
@@ -64,27 +58,3 @@ Here are some ideas to get you started:
         </td>
     </tr>
  </table>
-
-React
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
-Kotlin
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-
-Android
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-
-Thymeleaf
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-
-Google Colab
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
-
-Keras
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-
-Selenium
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-
-Klaytn
-<img src="https://img.shields.io/badge/Klaytn-6F6558?style=for-the-badge&logo=Klaytn&logoColor=white">
