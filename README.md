@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffbc75&height=200&section=header&text=Kayoung-Kwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
 ## Hi there 👋
 ##### I'm Kayoung Kwon✨<br>
-##### 📫E-mail : kwonka6348@gmail.com<br>📝Notion : -----<br>
+##### 📫E-mail : kwonka6348@gmail.com<br>📝Notion : https://libakongka.notion.site/896185ceec8f4bd3a998ff8df4f3f43d?v=ba3f90496a6a40d799758a542e80f283&pvs=4<br>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
